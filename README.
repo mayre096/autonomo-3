@@ -1,0 +1,11 @@
+El juego piedra papel o tijera 
+
+Ejecucion del codigo 
+
+#1 Comence agregando las opciones del juego que son piedra, papel y tijera y como esas no se van a moficar estan en una tupla, luego en el diccionario donde tenemos los  items con datos keys y values, ademas de una lista de jugadas.
+Se agrego el def que es una funcion con el contenido de los puntos, seguido del while True que es lo que hace que el juego vuelva a iniciarse osea el bucle, despues el menu y usamos el input que es para pedirle info al usuario 
+tambien se usaron los condicionales (if, elif, else) para que se cumplan ciertas cosas, lower es para ignorar si esta en mayusculas o minusculas.
+#2 Aqui se elige el modo de juego y tambien las opciones que tiene cada uno.
+#3 Despues de elegir una opcion y tener una respusta del otro jugador se elige un ganador cumpliendo las reglas del juego
+Finalmente tambien usamos los continue que ignora los comandos que esten debajo de el y regresa al bucle.
+El break es para romper ese bucle totalmente.
