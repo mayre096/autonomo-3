@@ -9,3 +9,4 @@ tambien se usaron los condicionales (if, elif, else) para que se cumplan ciertas
 #3 Despues de elegir una opcion y tener una respusta del otro jugador se elige un ganador cumpliendo las reglas del juego
 Finalmente tambien usamos los continue que ignora los comandos que esten debajo de el y regresa al bucle.
 El break es para romper ese bucle totalmente.
+#4 el usuario elige si desea seguir jugando o ya no y aqui es donde continua o se rompe totalmente el blucle y dando una respuesta a eso 
