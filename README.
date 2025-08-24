@@ -1,8 +1,10 @@
+8-21-2025
 El juego piedra papel o tijera 
 Utilice Visual Studio Code porque tiene distintos lenguajes de programacion de igual manera ahi mismo intalo la version del lenguaje 
 en mi caso use como lenguaje de progrmacion Python y la version es 2025.7.1
 lo  instale desde la pagina web oficial :   https://code.visualstudio.com/
 luego lo instale 
+
 Ejecucion del codigo 
 
 #1 Comence agregando las opciones del juego que son piedra, papel y tijera y como esas no se van a moficar estan en una tupla, luego
